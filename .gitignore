@@ -15,6 +15,7 @@
 *.nav
 *.out
 *.pdf
+!slika.pdf
 *.snm
 *.synctex.gz
 *.synctex(busy)
