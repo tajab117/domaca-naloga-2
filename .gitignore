@@ -8,20 +8,27 @@
 *.fdb_latexmk
 *.toc
 *.fls
+*.idx
+*.ilg
+*.ind
 *.log
 *.nav
 *.out
 *.pdf
-*.pyc
 *.snm
 *.synctex.gz
+*.synctex(busy)
+
+# Arhivi, iz katerih smo datoteke že odpakirali
+*.zip
 
 # MacOS
 __MACOSX
 .DS_Store
 
 # Windows
-thumbs.db
+Thumbs.db
 
 # Python
 __pycache__
+*.pyc
